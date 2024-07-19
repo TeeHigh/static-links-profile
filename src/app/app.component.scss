@@ -8,6 +8,8 @@
   
   .container{
     background-color: hsl(0, 0%, 12%);
-    padding: 30px;
+    padding: 30px 32px;
+    width: clamp(300px, 310px, 350px);
+    border-radius: 15px;
   }
 }
