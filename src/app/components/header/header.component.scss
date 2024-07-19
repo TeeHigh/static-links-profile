@@ -1,0 +1,26 @@
+*{
+  color: #fff;
+}
+
+.header-container{
+  text-align: center;
+
+  .profile-photo{
+    border-radius: 50%;
+    height: 60px;
+    margin-bottom: 30px;
+  }
+
+  h1{
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .location{
+    color: hsl(75, 94%, 57%);
+  }
+  .about{
+    margin-top: 24px;
+    // color: hsl(0, 0%, 20%);
+  }
+}

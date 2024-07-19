@@ -1,0 +1,13 @@
+.main{
+  height: 100vh;
+  background-color: hsl(0, 0%, 8%);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  .container{
+    background-color: hsl(0, 0%, 12%);
+    padding: 30px;
+  }
+}
